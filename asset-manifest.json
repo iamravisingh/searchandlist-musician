@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/searchandlist-musician/static/css/main.06ad17be.chunk.css",
+    "main.js": "/searchandlist-musician/static/js/main.18629838.chunk.js",
+    "main.js.map": "/searchandlist-musician/static/js/main.18629838.chunk.js.map",
+    "runtime-main.js": "/searchandlist-musician/static/js/runtime-main.bb1a8aeb.js",
+    "runtime-main.js.map": "/searchandlist-musician/static/js/runtime-main.bb1a8aeb.js.map",
+    "static/js/2.d5dfebf4.chunk.js": "/searchandlist-musician/static/js/2.d5dfebf4.chunk.js",
+    "static/js/2.d5dfebf4.chunk.js.map": "/searchandlist-musician/static/js/2.d5dfebf4.chunk.js.map",
+    "index.html": "/searchandlist-musician/index.html",
+    "precache-manifest.2cd54414af41139e966201dfbf6bb987.js": "/searchandlist-musician/precache-manifest.2cd54414af41139e966201dfbf6bb987.js",
+    "service-worker.js": "/searchandlist-musician/service-worker.js",
+    "static/css/main.06ad17be.chunk.css.map": "/searchandlist-musician/static/css/main.06ad17be.chunk.css.map",
+    "static/js/2.d5dfebf4.chunk.js.LICENSE.txt": "/searchandlist-musician/static/js/2.d5dfebf4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/searchandlist-musician/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb1a8aeb.js",
+    "static/js/2.d5dfebf4.chunk.js",
+    "static/css/main.06ad17be.chunk.css",
+    "static/js/main.18629838.chunk.js"
+  ]
+}
