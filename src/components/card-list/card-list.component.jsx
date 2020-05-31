@@ -5,7 +5,10 @@ import './card.styles.css';
 export const CardList = props => (
     <div className='card-list'>
         {props.rappers.map((rapper, index) => (
-            <Card key={index} rappers= {rapper}></Card>
+            <Card
+                key={index}
+                rappers={rapper}
+            />
         ))} 
      </div>
 )
